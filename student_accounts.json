@@ -1,0 +1,83 @@
+[
+    {
+        "id": "STU-682396",
+        "name": "Yushi",
+        "email": "y2484777@gmail.com",
+        "school": "Ckc",
+        "password": "$2y$10$5YXYeBALtGMZR3VJJYhPTOUrXC2LGvrxT1MzSR69B8mADTQbRP4dC",
+        "eligible": true,
+        "expires_at": "2027-09-04"
+    },
+    {
+        "id": "STU-543959",
+        "name": "Carl carin",
+        "email": "carlcarin0@gmail.com",
+        "school": "Christ the king college",
+        "password": "$2y$10$B4YA6AR.vB8a7xmRqDYxB.tLRHnJG5xXFMch\/n34Dz\/fb98a4ef9u",
+        "eligible": true,
+        "expires_at": "2027-09-04"
+    },
+    {
+        "id": "STU-873063",
+        "name": "Kenneth pondang",
+        "email": "kennethpondang16@gmail.com",
+        "school": "Christ the king college calbayog city inc",
+        "password": "$2y$10$D1TQhGUryouB.\/I\/NF5l2eeNg1.d\/f8DiyRQpE2YvNjrC\/wILmYM2",
+        "eligible": true,
+        "expires_at": "2027-09-04"
+    },
+    {
+        "id": "STU-307288",
+        "name": "Khean Joy Ancero",
+        "email": "kheanjoyancero@gmail.com",
+        "school": "Christ the King College of Calbayog City, Inc.",
+        "password": "$2y$10$4ZwVNg80OTa3SWPabM9JYOiBPFzdD79xEgtTDhmmbTj24ryg\/QRBa",
+        "eligible": true,
+        "expires_at": "2027-09-04"
+    },
+    {
+        "id": "STU-255241",
+        "name": "khean ancero",
+        "email": "kheanancero102003@gmail.com",
+        "school": "christ the king college calbayog city",
+        "password": "$2y$10$LKceaMz702C67jOxgNkS9.eo\/fAr\/c3Jm3DmJKQJlpk.UPkIelaz6",
+        "eligible": true,
+        "expires_at": "2027-09-04"
+    },
+    {
+        "id": "STU-561805",
+        "name": "yushie sumile",
+        "email": "yushiesumile@gmail.com",
+        "school": "christ the king college",
+        "password": "$2y$10$02L.nvm00fHx.sW31h93I.Zjhqr.CT4Zc7UMEC25.ttSLZy.pNaJG",
+        "eligible": true,
+        "expires_at": "2027-09-05"
+    },
+    {
+        "id": "STU-817613",
+        "name": "Carl",
+        "email": "carlcarin120505@gmail.com",
+        "school": "Ckc",
+        "password": "$2y$12$HAcpgbnu.458\/w3BlcRcD.dEb\/LqamoCweBWIkAhG9sgdkHMw4.gi",
+        "eligible": true,
+        "expires_at": "2027-09-10"
+    },
+    {
+        "id": "STU-148167",
+        "name": "carl carin",
+        "email": "carlcarin@gmil.com",
+        "school": "christ the king college calbayog city",
+        "password": "$2y$10$HixYxvHxqHDckPkqSM0bceTwQZTGT91wHRf37vLlKfwSt9TBzNYki",
+        "eligible": true,
+        "expires_at": "2027-09-10"
+    },
+    {
+        "id": "STU-637721",
+        "name": "Khean ancero",
+        "email": "kheanancero@gmail.com",
+        "school": "Ckc",
+        "password": "$2y$10$ATRM0OB8G\/HHteQpVWhGP.X1hJnfbBXtXYchvoC0D\/rUE6FIyJgLC",
+        "eligible": true,
+        "expires_at": "2027-09-10"
+    }
+]

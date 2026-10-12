@@ -1,0 +1,79 @@
+[
+    {
+        "id": "TX-20260910-181246-489",
+        "student_id": "",
+        "student_name": "Regular passenger",
+        "passenger_type": "Regular",
+        "destination": "Calbayog City Proper -> Acedillo",
+        "regular_fare": 10,
+        "discount": 0,
+        "paid_fare": 10,
+        "created_at": "2026-09-10 18:12:46"
+    },
+    {
+        "id": "TX-20260910-180122-137",
+        "student_id": "STU-148167",
+        "student_name": "carl carin",
+        "passenger_type": "Student",
+        "destination": "Calbayog City Proper -> Rawis",
+        "regular_fare": 15,
+        "discount": 3,
+        "paid_fare": 12,
+        "created_at": "2026-09-10 18:01:22"
+    },
+    {
+        "id": "TX-20260910-175348-274",
+        "student_id": "STU-148167",
+        "student_name": "carl carin",
+        "passenger_type": "Student",
+        "destination": "Calbayog City Proper -> Rawis",
+        "regular_fare": 15,
+        "discount": 3,
+        "paid_fare": 12,
+        "created_at": "2026-09-10 17:53:48"
+    },
+    {
+        "id": "TX-20260905-090828-829",
+        "student_id": "STU-561805",
+        "student_name": "yushie sumile",
+        "passenger_type": "Student",
+        "destination": "Calbayog City Proper -> Bagacay",
+        "regular_fare": 15,
+        "discount": 3,
+        "paid_fare": 12,
+        "created_at": "2026-09-05 09:08:28"
+    },
+    {
+        "id": "TX-20260904-144745-497",
+        "student_id": "STU-307288",
+        "student_name": "Khean Joy Ancero",
+        "passenger_type": "Student",
+        "destination": "Calbayog City Proper",
+        "regular_fare": 15,
+        "discount": 3,
+        "paid_fare": 12,
+        "created_at": "2026-09-04 14:47:45"
+    },
+    {
+        "id": "TX-20260904-142853-620",
+        "student_id": "",
+        "student_name": "Regular passenger",
+        "passenger_type": "Regular",
+        "destination": "Calbayog City Proper -> Sta. Margarita - Ilo",
+        "regular_fare": 30,
+        "discount": 0,
+        "paid_fare": 30,
+        "created_at": "2026-09-04 14:28:53"
+    },
+    {
+        "id": "TX-20260904-142155-976",
+        "student_id": "STU-543959",
+        "student_name": "Carl carin",
+        "passenger_type": "Student",
+        "destination": "Calbayog City Proper -> Sta. Margarita - Burabod",
+        "regular_fare": 30,
+        "discount": 6,
+        "paid_fare": 24,
+        "created_at": "2026-09-04 14:21:55"
+    }
+]
